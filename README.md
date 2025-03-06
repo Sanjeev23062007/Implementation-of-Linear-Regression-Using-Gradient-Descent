@@ -18,6 +18,14 @@ To write a program to predict the profit of a city using the linear regression m
  
 
 ## Program:
+
+```
+/*
+Program to implement the linear regression using gradient descent.
+Developed by: CHARUMATHI R
+RegisterNumber: 212222240021 
+*/
+```
 ![Screenshot 2025-03-06 141023](https://github.com/user-attachments/assets/7acf6958-9efd-4871-9257-ca42d5eea7d9)
 
 
